@@ -1,0 +1,34 @@
+ body{
+    background-image: url("../img/back.png");
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+ }
+ .main-frame{
+   text-align: center;
+ }
+.menu{
+  margin-top: 100px;
+}
+ .menu-img{
+   width: 210px;
+   height: auto;
+   float: left;
+ }
+
+ #logo{
+   width: 600px;
+   height: auto;
+   margin-top: 50px;
+
+ }
+
+ .main-frame{
+   text-align: center;
+   width: 850px;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
